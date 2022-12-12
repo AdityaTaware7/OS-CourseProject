@@ -1,0 +1,29 @@
+SAME                                   
+Error - Time Limit Exceeded
+
+Out of data error
+
+Operand is invalid
+
+*  
+*  *  
+Error - Line Limit Exceeded
+
+Invalid Page Fault
+
+Opcode Error has occured
+Job is terminated abnormally
+Program terminated without any errors
+
+Program terminated without any errors
+
+Program terminated without any errors
+
+Program terminated without any errors
+
+Program terminated without any errors
+
+Program terminated without any errors
+
+Program terminated without any errors
+
